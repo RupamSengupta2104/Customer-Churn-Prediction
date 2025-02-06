@@ -1,6 +1,6 @@
-## Customer Churn Prediction for Telecom Company
+# Customer Churn Prediction for Telecom Company
 
-## Project Overview
+# Project Overview
 
 This project aims to predict customer churn for a telecom company. The focus is on cleaning and preparing the dataset before performing any analysis or machine learning. In this phase, we will be performing data cleaning tasks like handling missing values, identifying duplicates, and preparing the dataset for the modeling process.
 
